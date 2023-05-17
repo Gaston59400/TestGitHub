@@ -1,0 +1,19 @@
+nav {
+    background-color: lightgray;
+    padding: 15px 0;
+}
+
+.menu {
+    display: flex;
+    list-style: none;
+    justify-content: space-around;
+}
+
+.menu li {
+    background-color: lightgray;
+}
+
+
+.menu li:hover {
+    background-color: green;
+}
